@@ -134,6 +134,10 @@ a:hover {
     padding-bottom: 0.375rem;
 }
 
+p.abstract {
+    font-size: 0.75rem;
+}
+
 .body-container h3 .education i {
     opacity: 0.6;
     margin-left: 0.25rem;
